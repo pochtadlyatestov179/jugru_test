@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Appeals" configfailurepolicy="continue">
+    <test name="Test appeals">
+        <classes>
+            <class name="com.jugru.runner.TestJugruRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
